@@ -7,10 +7,10 @@ import javax.swing.JProgressBar;
 /** 
  * <b>CLASE:</b>          Cargar.java 
  * <b>OBJETIVO:</b>       Representar la carga de la barra de progreso. 
- * ASIGNATURA o PROYECTO: Insertar asignatura o proyecto correspondiente.
+ * PROYECTO: ElectronePradasha
  *
- * @version 1.0 17/11/2023 
- * @author Juan diaz 
+ * @version 1.0 23 de abril de 2025
+ * @author Sebastian Diaz 
  */
 public class Cargar extends Thread{
     JProgressBar progreso;

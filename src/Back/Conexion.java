@@ -10,16 +10,13 @@ import java.sql.SQLException;/*Es una excepción que indica errores relacionados
 
 /*----------------------------------------------------------------------------*/ 
 /** 
- * <b>CLASE:</b> 			Conexion.java 
- * <b>OBJETIVO:</b> esta clase proporciona un método para establecer la conexión con la base de datos MySQL.
- * Utiliza la clase DriverManager para gestionar la conexión con el controlador de MySQL.
+ * <b>CLASE:</b>          Conexion.java 
+ * <b>OBJETIVO:</b>       Representar la conexion ala base de datos. 
+ * PROYECTO : ElectronePradasha
  *
- *							
- * ASIGNATURA o PROYECTO: 	Proyecto integrador. 
- *
- * @version 1.1 24/10/2023 
- * @author Juan Diaz 
- */ 
+ * @version 1.0, 23 de abril de 2025 
+ * @author Sebastian Diaz
+ */
 public class Conexion {
 
     // Declaración de un objeto Connection para manejar la conexión a la base de datos

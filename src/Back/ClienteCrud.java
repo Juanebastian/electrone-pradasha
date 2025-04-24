@@ -14,15 +14,12 @@ import javax.swing.JOptionPane;/*se utiliza para mostrar cuadros de diálogo*/
 
 
 /** 
- * <b>CLASE:</b> 		ClienteCrud.java 
- * <b>OBJETIVO:</b> 	proporciona métodos para realizar operaciones (registrar, listar, Actualizar, Eliminar)
- * relacionadas con la entidad Cliente en la base de datos.
- * Utiliza la clase Conexion para establecer la conexión con la base de datos MySQL.	
- *							
- * ASIGNATURA o PROYECTO: 	Proyecto integrador.
+ * <b>CLASE:</b>          Cliente.java 
+ * <b>OBJETIVO:</b>       Representar los metodos para hacer CRUD en la base de datos. 
+ * PROYECTO : ElectronePradasha
  *
- * @version 1.2 24/10/2023 
- * @author Juan Diaz 
+ * @version 1.0, 23 de abril de 2025 
+ * @author Sebastian Diaz
  */ 
 public class ClienteCrud {
     // se crea una nueva instancia de la clase Conexion y se está asignando a la variable "cn". Conexion es una clase que maneja la conexión a la base de datos.

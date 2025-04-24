@@ -6,10 +6,10 @@ package Back;
 /** 
  * <b>CLASE:</b>          Cliente.java 
  * <b>OBJETIVO:</b>       Representar un cliente con información básica. 
- * ASIGNATURA o PROYECTO: Proyecto integrador.
+ * PROYECTO : ElectronePradasha
  *
- * @version 1.0 29/11/2023 
- * @author Juan diaz 
+ * @version 1.0, 23 de abril de 2025 
+ * @author Sebastian Diaz
  */
 
 public class Cliente { 
