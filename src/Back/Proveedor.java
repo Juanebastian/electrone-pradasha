@@ -8,10 +8,12 @@ package Back;
  * <b>CLASE:</b>          Proveedor.java 
  * <b>OBJETIVO:</b>       Representar un Proveedor con su información básica. 
  * ASIGNATURA o PROYECTO: Proyecto integrador.
+ * PROYECTO : ElectronePradasha
  *
- * @version 1.0 29/11/2023 
- * @author Juan diaz 
- */public class Proveedor {
+ * @version 1.0, 02 de mayo del 2025 
+ * @author Sebastian Diaz
+ */
+public class Proveedor {
     private int id;
     private String nit;
     private String nombre;

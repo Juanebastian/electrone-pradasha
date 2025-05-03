@@ -8,10 +8,10 @@ import java.io.Serializable;
 /** 
  * <b>CLASE:</b>          Usuario.java 
  * <b>OBJETIVO:</b>       Representar un Usuario con su información básica. 
- * ASIGNATURA o PROYECTO: Proyecto integrador.
+ * PROYECTO : ElectronePradasha
  *
- * @version 1.0 29/11/2023 
- * @author Juan diaz 
+ * @version 1.0, 02 de mayo del 2025 
+ * @author Sebastian Diaz
  */
 public class Usuario implements Serializable{
     /*==========================================================================* 

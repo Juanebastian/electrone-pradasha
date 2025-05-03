@@ -2,10 +2,10 @@ package Back;
 /**
  * <b>CLASE:</b>          Marca.java
  * <b>OBJETIVO:</b>       Representar una marca con información básica.
- * ASIGNATURA o PROYECTO: Proyecto integrador.
+ * PROYECTO : ElectronePradasha
  *
- * @version 1.2 24/10/2023 
- * @author Juan Diaz 
+ * @version 1.0, 02 de mayo del 2025 
+ * @author Sebastian Diaz
  */
 
 public class Marca {
@@ -123,4 +123,4 @@ public class Marca {
     	this.codigo = codigo; 
  	} // Fin setCodigo
 
-}//Fin de la Clase
+}//Fin de la Clase Marca

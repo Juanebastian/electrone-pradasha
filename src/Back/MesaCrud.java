@@ -13,10 +13,10 @@ import java.util.List;/* define operaciones básicas para trabajar con listas.*/
  * relacionadas con la entidad mesa de ayuda en la base de datos.
  * Utiliza la clase Conexion para establecer la conexión con la base de datos MySQL.
  *							
- * ASIGNATURA o PROYECTO: 	Proyecto integrador.
+ * PROYECTO : ElectronePradasha
  *
- * @version 1.2 24/10/2023 
- * @author Juan Diaz 
+ * @version 1.0, 02 de mayo del 2025 
+ * @author Sebastian Diaz
  */
 public class MesaCrud {
     

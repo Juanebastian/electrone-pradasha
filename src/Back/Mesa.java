@@ -7,10 +7,10 @@ package Back;
 /** 
  * <b>CLASE:</b>          Mesa.java 
  * <b>OBJETIVO:</b>       Representar una mesa de ayuda con su información básica. 
- * ASIGNATURA o PROYECTO: Proyecto integrador.
+ * PROYECTO : ElectronePradasha
  *
- * @version 1.0 29/11/2023 
- * @author Juan diaz 
+ * @version 1.0, 02 de mayo del 2025 
+ * @author Sebastian Diaz
  */
 public class Mesa {
     

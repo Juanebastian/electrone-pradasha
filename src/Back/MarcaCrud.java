@@ -12,10 +12,10 @@ import java.util.List;/* define operaciones básicas para trabajar con listas.*/
  * <b>CLASE:</b>          MarcaCrud.java
  * <b>OBJETIVO:</b>       proporciona métodos para realizar operaciones (registrar, listar, Actualizar, Eliminar)
  * relacionadas con la entidad Marca en la base de datos.
- * ASIGNATURA o PROYECTO: Proyecto integrador.
+ * PROYECTO : ElectronePradasha
  *
- * @version 1.2 24/10/2023 
- * @author Juan Diaz 
+ * @version 1.0, 02 de mayo del 2025 
+ * @author Sebastian Diaz
  */
 
 public class MarcaCrud {
@@ -207,6 +207,5 @@ public class MarcaCrud {
         }
         return mr;
     }//Fin metodo ModificarUser
-    
     
 }//Fin clase MarcaCrud

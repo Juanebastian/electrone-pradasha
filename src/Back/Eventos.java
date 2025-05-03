@@ -5,10 +5,10 @@ import javax.swing.JTextField;
 /** 
  * <b>CLASE:</b>          Eventos.java 
  * <b>OBJETIVO:</b>       Representar metodos de texto para los textfield. 
- * ASIGNATURA o PROYECTO: Proyecto integrador.
+ * PROYECTO : ElectronePradasha
  *
- * @version 1.0 27/11/2023 
- * @author Juan Diaz 
+ * @version 1.0, 02 de mayo del 2025 
+ * @author Sebastian Diaz
  */
 
 public class Eventos {
@@ -60,4 +60,4 @@ public class Eventos {
             evt.consume();
         }
     }//Fin numberDecimalKeyPress 
-}//Fin de la Clase
+}//Fin de la Clase Eventos

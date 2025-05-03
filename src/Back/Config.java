@@ -1,12 +1,11 @@
 package Back;
-/** 
+ /*
  * <b>CLASE:</b>          Config.java 
  * <b>OBJETIVO:</b>       Representar los datos básicos de la empresa ElePra. 
- * ASIGNATURA o PROYECTO: Proyecto integrador.
- * 
+ * PROYECTO : ElectronePradasha
  *
- * @version 1.0 17/11/2023 
- * @author Juan Diaz 
+ * @version 1.0, 23 de abril de 2025 
+ * @author Sebastian Diaz
  */
 public class Config {
     
@@ -213,4 +212,4 @@ public class Config {
     	this.mensaje = mensaje; 
  	} // Fin setMensaje
 
-}//Fin de la Clase
+}//Fin de la Clase Config

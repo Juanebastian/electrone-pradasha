@@ -1,7 +1,6 @@
-
 package Back;
 /*========================================================================== 
-  Encabezado de los M�dulos (Bibliotecas) 
+  Encabezado de los Modulos (Bibliotecas) 
  =========================================================================== 
 */ 
 import java.sql.Connection;/*Proporciona interfaces para la conexión con bases de datos*/

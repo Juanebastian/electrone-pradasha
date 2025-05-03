@@ -5,9 +5,10 @@ package Back;
  * <b>CLASE:</b>          Venta.java
  * <b>OBJETIVO:</b>       Representar una venta con su información básica.
  * ASIGNATURA o PROYECTO: Insertar asignatura o proyecto correspondiente.
+ * PROYECTO : ElectronePradasha
  *
- * @version 1.1 1/12/2023 
- * @author Juan Diaz
+ * @version 1.0, 02 de mayo del 2025 
+ * @author Sebastian Diaz
  */
 
 public class Venta {

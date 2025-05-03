@@ -7,10 +7,10 @@ package Back;
 /** 
  * <b>CLASE:</b>          Productos.java 
  * <b>OBJETIVO:</b>       Representar un Producto con su información básica. 
- * ASIGNATURA o PROYECTO: Proyecto integrador.
+ * PROYECTO : ElectronePradasha
  *
- * @version 1.0 29/11/2023 
- * @author Juan diaz 
+ * @version 1.0, 02 de mayo del 2025 
+ * @author Sebastian Diaz
  */
 public class Productos {
     private int id;

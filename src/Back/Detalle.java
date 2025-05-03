@@ -1,12 +1,11 @@
-
 package Back;
 /** 
  * <b>CLASE:</b>          Detalle.java 
  * <b>OBJETIVO:</b>       Representar los detalles de venta y actualizar el stock. 
- * ASIGNATURA o PROYECTO: Proyecto integrador.
+ * PROYECTO : ElectronePradasha
  *
- * @version 1.0 17/11/2023 
- * @author Juan Diaz 
+ * @version 1.0, 02 de mayo del 2025 
+ * @author Sebastian Diaz
  */
 
 public class Detalle {
@@ -179,4 +178,4 @@ public class Detalle {
     	this.id_venta = id_venta; 
  	} // Fin setId_venta
 
-}//Fin de la Clase
+}//Fin de la Clasev Detalle
