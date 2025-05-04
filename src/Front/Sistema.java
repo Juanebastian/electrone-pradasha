@@ -36,13 +36,10 @@ import javax.swing.table.DefaultTableModel;
 /** 
  * <b>CLASE:</b> Sistema.java 
  * <b>OBJETIVO:</b> Proporcional al usuario una interfaz para el aplicativo.
- * 
- *							
- * ASIGNATURA o PROYECTO: 	Proyecto integrador.
+ * PROYECTO : ElectronePradasha
  *
- * 
- * @version 1.1 30/11/2023 
- * @author Juan Diaz 
+ * @version 1.0, 03 de mayo del 2025 
+ * @author Sebastian Diaz
  */
 public class Sistema extends javax.swing.JFrame {
 

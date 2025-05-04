@@ -33,12 +33,11 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 /** 
  * <b>CLASE:</b> 		Excel.java 
  * <b>OBJETIVO:</b> Crea un exel de los datos basicos de los productos registrados.
- *							
- * ASIGNATURA o PROYECTO: 	Proyecto integrador.
+ * PROYECTO : ElectronePradasha
  *
- * @version 1.2 24/10/2023 
- * @author Juan Diaz 
- */ 
+ * @version 1.0, 03 de mayo del 2025 
+ * @author Sebastian Diaz
+ */
 public class Excel {
     public static void reporte() {
  

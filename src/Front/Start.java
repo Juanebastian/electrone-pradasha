@@ -4,13 +4,10 @@ package Front;
 /** 
  * <b>CLASE:</b> Start.java 
  * <b>OBJETIVO:</b> Inicia la aplicacion.
- * 
- *							
- * ASIGNATURA o PROYECTO: 	Proyecto integrador.
+ * PROYECTO : ElectronePradasha
  *
- * 
- * @version 1.1 30/11/2023 
- * @author Juan Diaz 
+ * @version 1.0, 03 de mayo del 2025 
+ * @author Sebastian Diaz
  */
 public class Start {
 

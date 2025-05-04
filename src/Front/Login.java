@@ -11,13 +11,10 @@ import javax.swing.ImageIcon;
 /** 
  * <b>CLASE:</b> Login.java 
  * <b>OBJETIVO:</b> Proporcional al usuario una interfaz para iniciar secion.
- * 
- *							
- * ASIGNATURA o PROYECTO: 	Proyecto integrador.
+ * PROYECTO : ElectronePradasha
  *
- * 
- * @version 1.1 30/11/2023 
- * @author Juan Diaz 
+ * @version 1.0, 03 de mayo del 2025 
+ * @author Sebastian Diaz
  */
 public class Login extends javax.swing.JFrame {
     

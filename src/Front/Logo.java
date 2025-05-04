@@ -7,13 +7,10 @@ import javax.swing.ImageIcon;
 /** 
  * <b>CLASE:</b> Logo.java 
  * <b>OBJETIVO:</b> Proporcional el logo de la interfaz usurio..
- * 
- *							
- * ASIGNATURA o PROYECTO: 	Proyecto integrador.
+ * PROYECTO : ElectronePradasha
  *
- * 
- * @version 1.1 30/11/2023 
- * @author Juan Diaz 
+ * @version 1.0, 03 de mayo del 2025 
+ * @author Sebastian Diaz
  */
 public final class Logo extends javax.swing.JFrame {
 
